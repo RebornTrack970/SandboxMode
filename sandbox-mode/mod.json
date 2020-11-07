@@ -1,0 +1,8 @@
+{
+  "name": "sandboxer",
+  "displayName": "Sandbox-er",
+  "author": "RTOmega",
+  "description": "Makes you sandbox when you go to an nonlaunched campain sector.",
+  "version": "0.1",
+  "minGameVersion": 105,
+}
